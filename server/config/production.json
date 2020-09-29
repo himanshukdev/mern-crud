@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Admin:i1xc8JaS4q7Be3Tn@cluster0.cbsim.azure.mongodb.net/mern?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
